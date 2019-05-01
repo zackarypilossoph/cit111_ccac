@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
-    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/week_7/QualityControl.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>23</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/zackary.pilossoph/Documents/NetBeansProjects/cit111zack/cit111_ccac/src/week6_loops/SimpleFor.java</file>
+            <file>file:/C:/Users/zackary.pilossoph/Documents/NetBeansProjects/cit111zack/cit111_ccac/src/week9_methods/PurchasedCalculator.java</file>
+            <file>file:/C:/Users/zackary.pilossoph/Documents/NetBeansProjects/cit111zack/cit111_ccac/src/week8_methods/BasicSwitch.java</file>
+            <file>file:/C:/Users/zackary.pilossoph/Documents/NetBeansProjects/cit111zack/cit111_ccac/src/objects/ModelCar.java</file>
+            <file>file:/C:/Users/zackary.pilossoph/Documents/NetBeansProjects/cit111zack/cit111_ccac/src/week10_methods/RefactorTheRing.java</file>
             <file>file:/C:/Users/zackary.pilossoph/Documents/NetBeansProjects/cit111zack/cit111_ccac/src/week6_loops/SimpleWhile.java</file>
+            <file>file:/C:/Users/zackary.pilossoph/Documents/NetBeansProjects/cit111zack/cit111_ccac/src/week9_methods/MethodsWithReturn.java</file>
+            <file>file:/C:/Users/zackary.pilossoph/Documents/NetBeansProjects/cit111zack/cit111_ccac/src/objects/ModelLand.java</file>
+            <file>file:/C:/Users/zackary.pilossoph/Documents/NetBeansProjects/cit111zack/cit111_ccac/src/week_7/LoopingExTruman.java</file>
+            <file>file:/C:/Users/zackary.pilossoph/Documents/NetBeansProjects/cit111zack/cit111_ccac/src/objects/Donut.java</file>
+            <file>file:/C:/Users/zackary.pilossoph/Documents/NetBeansProjects/cit111zack/cit111_ccac/src/week10_methods/KennywoodRideTracker.java</file>
+            <file>file:/C:/Users/zackary.pilossoph/Documents/NetBeansProjects/cit111zack/cit111_ccac/src/week6_loops/Authentication.java</file>
+            <file>file:/C:/Users/zackary.pilossoph/Documents/NetBeansProjects/cit111zack/cit111_ccac/src/week6_loops/SimpleFor.java</file>
+            <file>file:/C:/Users/zackary.pilossoph/Documents/NetBeansProjects/cit111zack/cit111_ccac/src/week_7/QualityControl.java</file>
+            <file>file:/C:/Users/zackary.pilossoph/Documents/NetBeansProjects/cit111zack/cit111_ccac/src/week9_methods/MethodsWithInput.java</file>
+            <file>file:/C:/Users/zackary.pilossoph/Documents/NetBeansProjects/cit111zack/cit111_ccac/src/objects/DonutLand.java</file>
+            <file>file:/C:/Users/zackary.pilossoph/Documents/NetBeansProjects/cit111zack/cit111_ccac/src/objects/ArrayPractice.java</file>
+            <file>file:/C:/Users/zackary.pilossoph/Documents/NetBeansProjects/cit111zack/cit111_ccac/src/objects/ClubUsing.java</file>
+            <file>file:/C:/Users/zackary.pilossoph/Documents/NetBeansProjects/cit111zack/cit111_ccac/src/week3_basics/Sandbox.java</file>
+            <file>file:/C:/Users/zackary.pilossoph/Documents/NetBeansProjects/cit111zack/cit111_ccac/src/week8_methods/SimpleMethod.java</file>
+            <file>file:/C:/Users/zackary.pilossoph/Documents/NetBeansProjects/cit111zack/cit111_ccac/src/week8_methods2/GeometricShapes.java</file>
             <file>file:/C:/Users/zackary.pilossoph/Documents/NetBeansProjects/cit111zack/cit111_ccac/src/week_5/JavaGhost.java</file>
         </group>
     </open-files>

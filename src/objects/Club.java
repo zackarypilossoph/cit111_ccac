@@ -21,15 +21,11 @@ public class Club {
     int year;
     int avgDistance;
     
-    public void selectClub(String club) {
-        
-    }
-    
     public void calculateDistanceToHole(String avgDistance) {
-        
+        avgDistance = avgDistance - remainingDistance;
     }
     
     public int calculateDistanceToHole() {
-        
+        return avgDistance;
     }
 }
